@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 ShopKart
 
 **ShopKart** is a Flutter-based e-commerce mobile application designed to provide a simple and user-friendly shopping experience.
@@ -219,3 +220,7 @@ Developed using **Flutter & Dart** with a focus on learning, practical implement
 ## 📄 License
 
 This project is for educational and portfolio purposes.
+=======
+# shop-kart
+🛒 A Flutter e-commerce app built with GetX, REST API integration, Firebase, and local data storage, featuring authentication, products, cart, wishlist, and orders.
+>>>>>>> 35cb28b228b8e8af92e2b855dff62096b6828678
