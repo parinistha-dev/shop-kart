@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14160887875",
+    "project_id": "shopkart-4d411",
+    "storage_bucket": "shopkart-4d411.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14160887875:android:baeccc9cb81dd5865d14f6",
+        "android_client_info": {
+          "package_name": "com.example.shop_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-9Pqf064ZHDUznmsox9uJNNXJF1uBlJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
